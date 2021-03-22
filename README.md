@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chrisql
+- 👀 Becoming a full stack developer
+- 🌱 sql, css, html, and java
+- 📫 If you would like to contact me email: christianruthalt@gmail.com
