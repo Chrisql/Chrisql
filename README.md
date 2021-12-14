@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chrisql
 - 👀 I’m interested in learnig how websites and apps are made
-- 🌱 I’m currently learning sql, and javascript
+- 🌱 I’m currently learning sql, javascript, and python
 - 📫 How to reach me christianruthalt@gmail.com
 
 <!---
